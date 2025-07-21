@@ -4,10 +4,10 @@
 All of my projects, including hands-on work in data analytics, machine learning, and software development, are available in this GitHub repository. Each project is documented with code, explanations, and outputs for better understanding. You can explore the complete collection here:
 
 
-![Logo](https://images.app.goo.gl/Y8dLiqPukyApTw7TA)
 
 
 ##  OTP-Based Secure File Hiding Application
+![Logo](https://github.com/AkashRouth001/My-all-projects/blob/e23631bba80881686bc86a41f6b512cd191fac93/images/otp.png)
 
 The OTP-Based Secure File Hiding Application is a cutting-edge Java application designed to securely hide and unhide sensitive files. With a strong focus on encryption, OTP-based authentication, and seamless user interaction, this project ensures that your files remain private and protected.
 
